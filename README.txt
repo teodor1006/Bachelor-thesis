@@ -1,6 +1,7 @@
 % --------------------------------------------------------
 %      Bachelor thesis-README
 %      =========================================
+%      Topic:                Application of graph partitioning algorithms and genetic algorithms for optimizing the teleportation costs of distributed quantum circuits
 %      File:                 README.txt
 %      Author(s):            Teodor Slaveykov
 % --------------------------------------------------------
