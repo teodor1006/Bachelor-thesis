@@ -1,8 +1,10 @@
-# Bachelor's Thesis README
+# Bachelor’s Thesis: Application of graph partitioning algorithms and genetic algorithms for optimizing teleportation costs in distributed quantum circuits
 
 **Author:** Teodor Slaveykov
 
 This README provides an overview of the content associated with the bachelor's thesis.
+
+![Teleportation](DQC_Partition/Images/Results/Teleportation.png)
 
 ## Contents:
 
@@ -13,7 +15,7 @@ This README provides an overview of the content associated with the bachelor's t
    - [Teodor_BA.pdf](Teodor_BA.pdf) - The complete bachelor's thesis in a readable format.
 
 3. **Extended Abstract PDF:**
-   - [Extended Abstract.pdf](Extended%20Abstract.pdf) - A summary of the main content and results.
+   - [Abstract_English.pdf](Abstract_English.pdf) - A summary of the main content and results.
 
 4. **DQC Partition Folder:**
    - Contains various Python files for qubit partitioning.
