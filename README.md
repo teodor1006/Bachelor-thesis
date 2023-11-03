@@ -4,7 +4,7 @@
 
 This README provides an overview of the content associated with the bachelor's thesis.
 
-![Teleportation](Literatur/Images/Results/Teleportation.png)
+![Teleportation](Literatur/Images/Teleportation.png)
 
 ## Contents:
 
